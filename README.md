@@ -25,6 +25,6 @@ I am now focusing on SOC analysis — developing expertise in threat detection, 
 
 ## 🚀 Roadmap (Upcoming Projects)
 - ✅ Password Cracking Demo  
-- ✅ DoS & WiFi Jamming Simulations  
+- 🔜 DoS & WiFi Jamming Simulations  
 - 🔜 Log Parser & File Integrity Checker  
 - 🔜 SOC Analyst Playbook (common attack detections)  
