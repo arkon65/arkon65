@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Argyris 👋  
 
-<!--
-**arkon65/arkon65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity research engineer with a Master’s in Communication Networks & Security. My background includes offensive and defensive security for networked systems, drone systems and robotic systems. 
+I am now focusing on SOC analysis — developing expertise in threat detection, log analysis, and incident response.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Tools
+- Programming: Python, Bash  
+- Networking: TCP/IP, Firewalls
+- Security: Wireshark, Nmap, Burp Suite  
+- OS: Linux (Kali, Ubuntu), Windows
+- Robotic systems: ANYmal, Boston Dynamics Spot
+- Drone systems: Parrot Anafi, DJI Tello 
+
+---
+
+## 📚 Currently Learning
+- Security+ Certification Prep  
+- SOC Analyst workflows (alerts, logs, SIEM)  
+- TryHackMe labs & CTF challenges  
+
+---
+
+## 🚀 Roadmap (Upcoming Projects)
+- ✅ Password Cracking Demo  
+- ✅ DoS & WiFi Jamming Simulations  
+- 🔜 Log Parser & File Integrity Checker  
+- 🔜 SOC Analyst Playbook (common attack detections)  
