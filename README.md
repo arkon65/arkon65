@@ -8,7 +8,7 @@ I am now focusing on SOC analysis — developing expertise in threat detection, 
 
 ## 🛠 Skills & Tools
 - Programming: Python, Bash  
-- Networking: TCP/IP, Firewalls
+- Networking: TCP/IP, Firewalls, IDS/IPS
 - Security: Wireshark, Nmap, Burp Suite  
 - OS: Linux (Kali, Ubuntu), Windows
 - Robotic systems: ANYmal, Boston Dynamics Spot
